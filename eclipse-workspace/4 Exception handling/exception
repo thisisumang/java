@@ -1,0 +1,20 @@
+Error could be
+Syntax error: handled by compiler
+Logical error: handled by debugger
+Run time error: handled by Exception handling
+
+Exception handling
+
+		1. Object
+1. Throwable 	2. Error
+1.Runtime Exception
+
+
+
+> Exception is of two type: 1) checked and 2) unchecked.
+checked exceptions are checked in compile time but in unchecked it is done at run time.
+all the exceptions under error and runtime are unchecked and rest of the exceptions are checked exceptions.
+
+> throw and throws
+
+throw -> verb and throws -> adjective
